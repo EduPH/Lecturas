@@ -3,6 +3,15 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 
 + Aprendizaje Haskell
   + [[https://medium.com/@sjsyrek/some-notes-on-haskell-pedagogy-de43281b1a5c][Some notes on Haskell pedagogy]]
+  + [[https://github.com/cydparser/demo-emacs-haskell][Emacs para proyectos de Haskell]]
 
 + Isomorfismo de Curry Howard
   + [[http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]
+
++ Escritura
+  + [[https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8][PDF desde markdown (Pandoc)]]
+  + [[https://wildunix.es/posts/un-resumen-de-atajos-fundamentales-de-emacs/][Atajos fundamentales en emacs]]
+
++ Programación | Computación
+  + [[https://cses.fi/book.html][Competitive Programmer's Handbook
+]]  + [[https://briansteffens.github.io/2017/02/20/from-math-to-machine.html][From math to machine: translating a function to machine code]]
