@@ -14,5 +14,5 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
   + [[https://wildunix.es/posts/un-resumen-de-atajos-fundamentales-de-emacs/][Atajos fundamentales en emacs]]
 
 + Programación, Computación
-  + [[https://cses.fi/book.html][Competitive Programmer's Handbook
-]]  + [[https://briansteffens.github.io/2017/02/20/from-math-to-machine.html][From math to machine: translating a function to machine code]]
+  + [[https://cses.fi/book.html][Competitive Programmer's Handbook]] 
+  + [[https://briansteffens.github.io/2017/02/20/from-math-to-machine.html][From math to machine: translating a function to machine code]]
