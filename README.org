@@ -7,6 +7,7 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 
 + Isomorfismo de Curry Howard
   + [[http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]
+  + [[https://github.com/libreim/curryHoward/blob/master/CurryHoward.pdf][Curry-Howard]]
 
 + Escritura
   + [[https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8][PDF desde markdown (Pandoc)]]
