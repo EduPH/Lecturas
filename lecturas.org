@@ -1,0 +1,7 @@
+TITLE: Lecturas sobre temas diversos
+
+* Aprendizaje Haskell
+** [[https://medium.com/@sjsyrek/some-notes-on-haskell-pedagogy-de43281b1a5c][Some notes on Haskell pedagogy]]
+
+* Curry Howard Correspondence
+** [[http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]
