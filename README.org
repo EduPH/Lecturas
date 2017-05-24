@@ -12,7 +12,7 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 + Escritura
   + [[https://gist.github.com/maxogden/97190db73ac19fc6c1d9beee1a6e4fc8][PDF desde markdown (Pandoc)]]
   + [[https://wildunix.es/posts/un-resumen-de-atajos-fundamentales-de-emacs/][Atajos fundamentales en emacs]]
-  + [[https://ftp://ftp.dante.de/tex-archive/info/spanish/guia-atx/guia-atx.pdf][Manual AucTeX (Escritura LaTeX en emacs)]]
+  + [[ftp://ftp.dante.de/tex-archive/info/spanish/guia-atx/guia-atx.pdf][Manual AucTeX (Escritura LaTeX en emacs)]]
   
 + Programación, Computación
   + [[https://cses.fi/book.html][Competitive Programmer's Handbook]] 
