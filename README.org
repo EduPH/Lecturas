@@ -17,3 +17,4 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 + Programación, Computación
   + [[https://cses.fi/book.html][Competitive Programmer's Handbook]] 
   + [[https://briansteffens.github.io/2017/02/20/from-math-to-machine.html][From math to machine: translating a function to machine code]]
+  + [[http://chimera.labs.oreilly.com/books/1230000000393][Python Cookbook, Third Edition]]
