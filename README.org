@@ -4,7 +4,7 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 + Aprendizaje Haskell
   + [[https://medium.com/@sjsyrek/some-notes-on-haskell-pedagogy-de43281b1a5c][Some notes on Haskell pedagogy]]
   + [[https://github.com/cydparser/demo-emacs-haskell][Emacs para proyectos de Haskell]]
-
+  + [[http://chimera.labs.oreilly.com/books/1230000000929][Parallel and Concurrent Programming in Haskell]]
 + Isomorfismo de Curry Howard
   + [[http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]
   + [[https://github.com/libreim/curryHoward/blob/master/CurryHoward.pdf][Curry-Howard]]
