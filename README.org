@@ -28,3 +28,6 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
   
 + Artículos ENEM
   + [[http://temat.anemat.com/wp-content/uploads/2017/07/TEMat-vol1.pdf][Primera revista Temat]]
+
++ Isabelle 
+  + [[https://arxiv.org/pdf/1606.02941.pdf][A Proof Strategy Language and Proof Script Generation for Isabelle/HOL]] 
