@@ -31,3 +31,6 @@ Este repositorio es una simple recopilación de artículos, entradas en blogs...
 
 + Isabelle 
   + [[https://arxiv.org/pdf/1606.02941.pdf][A Proof Strategy Language and Proof Script Generation for Isabelle/HOL]] 
+
++ Machine learning
+  + [[https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471][Machine learning is fun!]]
